@@ -1,4 +1,4 @@
-import 'package:demo_getx/btvn/login_page.dart';
+import 'package:demo_getx/btvn_getx/login_page.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'signup_controller.dart';
